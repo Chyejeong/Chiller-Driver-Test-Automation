@@ -28,12 +28,15 @@
 2. **시스템 개발 및 테스트**: 본격적인 개발을 시작하여 각 하드웨어 및 소프트웨어 컴포넌트의 통합 테스트를 진행합니다.
 3. **성능 평가 및 최적화**: 개발된 시스템의 성능을 평가하고, 필요에 따라 추가적인 최적화 작업을 수행합니다.
 4. **사용자 피드백 및 마무리 작업**: 최종 사용자로부터 피드백을 받고, 프로젝트 결과물을 마무리합니다.
+<img src="/PBL/진행.png" width="500" height = "300" alt="">
+<img src="/PBL/진행과정.png" width="500" height = "300" alt="">
+<img src="/PBL/제안내용.png" width="500" height = "300" alt="">
 
 ## 🛠 하드웨어 구상
-<img src="/PBL/하드웨어구상.png" width="500" alt="하드웨어 구상">
+<img src="/PBL/하드웨어구상.png" width="500" height = "300" alt="하드웨어 구상">
 
 ## 🎬 시연
-<img src="/PBL/시연.png" width="500" alt="시연 이미지">
+<img src="/PBL/시연.png" width="500" height = "300" alt="시연 이미지">
 
 ## 🔧 기술 스택
 - **Programming Languages**: Python
