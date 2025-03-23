@@ -28,24 +28,22 @@
 2. **시스템 개발 및 테스트**: 본격적인 개발을 시작하여 각 하드웨어 및 소프트웨어 컴포넌트의 통합 테스트를 진행합니다.
 3. **성능 평가 및 최적화**: 개발된 시스템의 성능을 평가하고, 필요에 따라 추가적인 최적화 작업을 수행합니다.
 4. **사용자 피드백 및 마무리 작업**: 최종 사용자로부터 피드백을 받고, 프로젝트 결과물을 마무리합니다.
-<img src="/PBL/진행.png" width="500" height = "300" alt="">
-- 진행은 파트별로 각자 준비하였고 매주 화요일 마다 멘토님과 정기적인 점검 및 팀 회의를 통해 프로젝트의 오류 수정 및 진행시의 에로사항들을 함께 수정하였습니다.
-<img src="/PBL/진행과정.png" width="500" height = "300" alt="">
-- 모든 SW 및 통신 장치와 UI 구성 완료 후 산업체 재방문하여 모듈테스트 시행하였습니다.
-<img src="/PBL/제안내용.png" width="500" height = "300" alt="">
-
+   <img src="/PBL/진행.png" width="500" height="300" alt="">
+   <img src="/PBL/진행과정.png" width="500" height="300" alt="">
+   <img src="/PBL/제안내용.png" width="500" height="300" alt="">
+   
 ## 🛠 하드웨어 구상
-<img src="/PBL/하드웨어구상.png" width="500" height = "300" alt="하드웨어 구상">
+<img src="/PBL/하드웨어구상.png" width="500" height="300" alt="하드웨어 구성">
 1. 하드웨어 구성품 및 조립영상을 참고하여 하드웨어 조립을 실시합니다.
 2. 하드웨어의 조립이 끝난 후 Power supply 및 모터를 부착합니다.
 3. 배관연결을 부동액의 원활한 흐름제어를 위해 각도와 길이를 조절하였습니다.
 
-
 ## 🎬 시연
-<img src="/PBL/시연.png" width="500" height = "300" alt="시연 이미지">
+<img src="/PBL/시연.png" width="500" height="300" alt="시연 이미지">
 
 ## 🔧 기술 스택
 - **Programming Languages**: Python
 - **Frameworks and Libraries**: Tkinter (for GUI), PySerial (for Serial Communication)
 - **Tools**: Git, Visual Studio Code
+
 
