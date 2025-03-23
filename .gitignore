@@ -1,0 +1,26 @@
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Images and DBC files
+*.png
+*.dbc
+
+# Spec files for PyInstaller
+*.spec
